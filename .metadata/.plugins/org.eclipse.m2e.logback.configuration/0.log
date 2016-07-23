@@ -1,0 +1,13 @@
+2016-07-24 00:08:08,641 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/awasik/android/kilerbotgame/pom.xml
+2016-07-24 00:08:09,659 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: awasikdev:kilerbotgame:0.0.1-SNAPSHOT @ /home/awasik/android/kilerbotgame/pom.xml.
+2016-07-24 00:08:10,405 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /kilerbotgame/src/main/java
+2016-07-24 00:08:10,411 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /kilerbotgame/src/test/java
+2016-07-24 00:08:11,437 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2016-07-24 00:08:12,153 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-24 00:08:12,154 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/awasik/android/kilerbotgame/src/main/resources
+2016-07-24 00:08:12,156 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-24 00:08:12,157 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/awasik/android/kilerbotgame/src/test/resources
+2016-07-24 00:08:24,664 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-24 00:08:24,664 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/awasik/android/kilerbotgame/src/main/resources
+2016-07-24 00:08:24,665 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-24 00:08:24,665 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/awasik/android/kilerbotgame/src/test/resources
